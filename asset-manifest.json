@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokelive/static/css/main.818de582.chunk.css",
+    "main.js": "/pokelive/static/js/main.6c939094.chunk.js",
+    "main.js.map": "/pokelive/static/js/main.6c939094.chunk.js.map",
+    "runtime-main.js": "/pokelive/static/js/runtime-main.8c950f19.js",
+    "runtime-main.js.map": "/pokelive/static/js/runtime-main.8c950f19.js.map",
+    "static/js/2.acbb78bc.chunk.js": "/pokelive/static/js/2.acbb78bc.chunk.js",
+    "static/js/2.acbb78bc.chunk.js.map": "/pokelive/static/js/2.acbb78bc.chunk.js.map",
+    "static/js/3.07649204.chunk.js": "/pokelive/static/js/3.07649204.chunk.js",
+    "static/js/3.07649204.chunk.js.map": "/pokelive/static/js/3.07649204.chunk.js.map",
+    "index.html": "/pokelive/index.html",
+    "static/css/main.818de582.chunk.css.map": "/pokelive/static/css/main.818de582.chunk.css.map",
+    "static/js/2.acbb78bc.chunk.js.LICENSE.txt": "/pokelive/static/js/2.acbb78bc.chunk.js.LICENSE.txt",
+    "static/media/pokemonhunts.b05fd55e.png": "/pokelive/static/media/pokemonhunts.b05fd55e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c950f19.js",
+    "static/js/2.acbb78bc.chunk.js",
+    "static/css/main.818de582.chunk.css",
+    "static/js/main.6c939094.chunk.js"
+  ]
+}
